@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pcto2024-Droid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profilo">Profilo</string>
+    <string name="menu_prodotti">Prodotti</string>
+    <string name="menu_andamento">Andamento</string>
+    <string name="menu_segnalazione">Segnalazione</string>
+    <string name="menu_faq">F.A.Q.</string>
+    <string name="menu_logout">Logout</string>
+</resources>
